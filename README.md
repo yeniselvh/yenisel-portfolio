@@ -1,19 +1,49 @@
-# yenisel-portfolio
-# 👩‍💻 Yenisel Valdes Hernandez – QA Automation Engineer
+# 🛒 OctoPerf Pet Store Automation
 
-Profesional con experiencia en testing funcional, automatización de pruebas con Java, Selenium WebDriver y Cucumber. Apasionada por la documentación clara, la estructura modular y la mejora continua. Este portafolio reúne mis proyectos técnicos, documentación y trayectoria profesional.
+Este proyecto demuestra la automatización de pruebas funcionales para una tienda en línea simulada (OctoPerf Pet Store), utilizando herramientas modernas y buenas prácticas de desarrollo.
 
-## 🚀 Proyectos destacados
+## 🎯 Objetivo
 
-- [OctoPerf Pet Store Automation](projects/pet-store-automation/README.md)  
-  Automatización de pruebas funcionales con Page Object Model, Gherkin y Selenium.
+Validar el comportamiento de funcionalidades clave del sistema, como el login, navegación, selección de productos y lógica del carrito de compras, mediante pruebas automatizadas reutilizables y mantenibles.
 
-## 📄 Currículum
+## 🧪 Tecnologías utilizadas
 
-- [Descargar CV](cv/Yenisel_CV.pdf)
+- **Lenguaje**: Java  
+- **Frameworks**: Selenium WebDriver, Cucumber  
+- **Estilo de pruebas**: Gherkin (BDD)  
+- **IDE**: IntelliJ IDEA  
+- **Diseño**: Page Object Model (POM), estructura modular
 
-## 🌐 Contacto
+## 🧱 Estructura del proyecto
+pet-store-automation/ │ 
+├── config/              ← Configuración general (drivers, propiedades) 
+├── pages/               ← Objetos de página (POM) 
+├── interfaces/          ← Interfaces reutilizables 
+├── step_definitions/    ← Definiciones de pasos en Cucumber 
+├── features/            ← Escenarios Gherkin 
+├── utils/               ← Clases auxiliares y helpers
 
-- 📧 yenyselvh@gmail.com  
-- 📍 Houston, TX  
-- [LinkedIn](https://www.linkedin.com/in/yenisel-valdes-hernandez/)
+## 📋 Escenarios cubiertos
+
+- Inicio de sesión exitoso y fallido  
+- Navegación por categorías de productos  
+- Agregar productos al carrito  
+- Validación de precios y cantidades  
+- Finalización de compra simulada
+
+## 📄 Documentación
+
+- Escenarios escritos en Gherkin con lenguaje claro y mantenible  
+- Manual de ejecución paso a paso  
+- Resultados de pruebas automatizadas con capturas de pantalla  
+- Instrucciones para configurar y ejecutar el proyecto localmente
+
+## 🔗 Repositorio
+
+[Ver código fuente](https://github.com/tu_usuario/pet-store-automation)
+
+## 👩‍💻 Autor
+
+**Yenisel Valdes Hernandez**  
+QA Automation Engineer | Especialista en Java, Selenium y Cucumber  
+[LinkedIn](https://www.linkedin.com/in/yenisel-valdes-hernandez/) | [Correo](mailto:yenyselvh@gmail.com)
