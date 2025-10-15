@@ -1,4 +1,4 @@
-# 🛒 OctoPerf Pet Store Automation
+# 🛒 Pet Store Automation
 
 Este proyecto demuestra la automatización de pruebas funcionales para una tienda en línea simulada (OctoPerf Pet Store), utilizando herramientas modernas y buenas prácticas de desarrollo.
 
