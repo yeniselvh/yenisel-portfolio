@@ -1,12 +1,12 @@
-# 👩‍💻 Yenisel Valdes Hernandez – QA Automation Engineer
+# 👩‍💻 Yenisel Valdes Hernandez – QA Tester, QA Automation Engineer
 
-Bienvenida a mi portafolio profesional. Aquí comparto mis proyectos técnicos, experiencia en automatización de pruebas, documentación y recursos que reflejan mi trayectoria en el mundo del testing y desarrollo de software.
+Bienvenido a mi portafolio profesional. Aquí comparto mis proyectos técnicos, experiencia en testing y automatización de pruebas, documentación y recursos que reflejan mi trayectoria en el mundo del testing y desarrollo de software.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 🛒 [OctoPerf Pet Store Automation](projects/pet-store-automation/README.md)
+### 🛒 [Pet Store Automation](projects/pet-store-automation/README.md)
 Automatización de pruebas funcionales para una tienda en línea simulada.  
 Tecnologías: Java · Selenium WebDriver · Cucumber · Gherkin  
 Diseño: Page Object Model · Estructura modular  
@@ -18,6 +18,7 @@ Documentación clara y escenarios bien definidos.
 
 - [Descargar CV en PDF](cv/Yenisel_CV.pdf)
 - [Ver perfil en LinkedIn](https://www.linkedin.com/in/yenisel-valdes-hernandez/)
+- [Repositorio en GitHub] (https://github.com/yeniselvh/PetStore.git)
 
 ---
 
@@ -34,7 +35,7 @@ Documentación clara y escenarios bien definidos.
 
 - 📧 yenyselvh@gmail.com  
 - 📍 Houston, Texas  
-- 🌐 [GitHub](https://github.com/tu_usuario) · [LinkedIn](https://www.linkedin.com/in/yenisel-valdes-hernandez/)
+- 🌐 [GitHub](https://github.com/tyeniselvh) · [LinkedIn](https://www.linkedin.com/in/yenisel-valdes-hernandez/)
 
 ---
 
