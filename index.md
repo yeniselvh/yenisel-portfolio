@@ -18,7 +18,7 @@ Documentación clara y escenarios bien definidos.
 
 - [Descargar CV en PDF](cv/Yenisel_CV.pdf)
 - [Ver perfil en LinkedIn](https://www.linkedin.com/in/yenisel-valdes-hernandez/)
-- [Repositorio en GitHub] (https://github.com/yeniselvh/PetStore.git)
+- [Repositorio en GitHub](https://github.com/yeniselvh/PetStore.git)
 
 ---
 
@@ -35,7 +35,7 @@ Documentación clara y escenarios bien definidos.
 
 - 📧 yenyselvh@gmail.com  
 - 📍 Houston, Texas  
-- 🌐 [GitHub](https://github.com/tyeniselvh) · [LinkedIn](https://www.linkedin.com/in/yenisel-valdes-hernandez/)
+- 🌐 [GitHub](https://github.com/yeniselvh) · [LinkedIn](https://www.linkedin.com/in/yenisel-valdes-hernandez/)
 
 ---
 
