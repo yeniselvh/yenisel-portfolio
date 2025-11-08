@@ -1,6 +1,6 @@
 # 🛒 Pet Store Automation
 
-Este proyecto demuestra la automatización de pruebas funcionales para una tienda en línea simulada (OctoPerf Pet Store), utilizando herramientas modernas y buenas prácticas de desarrollo.
+Este proyecto demuestra la automatización de pruebas funcionales para una tienda en línea simulada (Pet Store), utilizando herramientas modernas y buenas prácticas de desarrollo.
 
 ## 🎯 Objetivo
 
@@ -25,22 +25,24 @@ pet-store-automation/ │
 
 ## 📋 Escenarios cubiertos
 
-- Inicio de sesión exitoso y fallido  
-- Navegación por categorías de productos  
-- Agregar productos al carrito  
-- Validación de precios y cantidades  
-- Finalización de compra simulada
+- Inicio de sesión exitoso y fallido.
+- Registro de usuarios exitoso y fallido.
+- Validación de datos en el registro de usuarios.
+- Navegación por categorías de productos.
+- Agregar productos al carrito.  
+- Validación de precios y cantidades.  
+- Finalización de compra simulada.
 
 ## 📄 Documentación
 
-- Escenarios escritos en Gherkin con lenguaje claro y mantenible  
-- Manual de ejecución paso a paso  
-- Resultados de pruebas automatizadas con capturas de pantalla  
-- Instrucciones para configurar y ejecutar el proyecto localmente
+- Escenarios escritos en Gherkin con lenguaje claro y mantenible.  
+- Manual de ejecución paso a paso.  
+- Resultados de pruebas automatizadas con capturas de pantalla.  
+- Instrucciones para configurar y ejecutar el proyecto localmente.
 
 ## 🔗 Repositorio
 
-[Ver código fuente](https://github.com/tu_usuario/pet-store-automation)
+[Ver código fuente](https://github.com/yeniselvh/PetStore)
 
 ## 👩‍💻 Autor
 
